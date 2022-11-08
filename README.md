@@ -7,7 +7,7 @@
 - 😄 Pronouns: HE/HIM
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriharsha622&theme=radical)
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha622&langs_count=5&theme=tokyonight)]()
 
 <!--
 **sriharsha622/sriharsha622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
