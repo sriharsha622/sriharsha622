@@ -1,11 +1,11 @@
 ### Hi there 👋
 
--🔭 I’m currently working on projects based on HTML,CSS,JavaScript,jQuery,NodeJS,Python,Flask.
--🌱 I’m currently looking for Fullstack developer roles.
--🤔 I’m looking for help with swift.
--📫 How to reach me: 
-   -Linkedin(https://www.linkedin.com/in/sri-harsha622/)
--😄 Pronouns: HE/HIM
+- 🔭 I’m currently working on projects based on HTML,CSS,JavaScript,jQuery,NodeJS,Python,Flask.
+- 🌱 I’m currently looking for Fullstack developer roles.
+- 🤔 I’m looking for help with swift.
+- 📫 How to reach me: Linkedin(https://www.linkedin.com/in/sri-harsha622/)
+- 😄 Pronouns: HE/HIM
+
 <!--
 **sriharsha622/sriharsha622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
