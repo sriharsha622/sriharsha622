@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with swift.
 - 📫 How to reach me: Linkedin(https://www.linkedin.com/in/sri-harsha622/)
 - 😄 Pronouns: HE/HIM
+- 📝 Resume:https://sriharsha622.github.io/WebDevelopment/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriharsha622&theme=radical)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha622&langs_count=5&theme=tokyonight)]()
