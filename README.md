@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on projects based on HTML,CSS,JavaScript,jQuery,NodeJS,Python,Flask.
 - 🌱 I’m currently looking for Fullstack developer roles.
 - 🤔 I’m looking for help with swift.
-- 📫 How to reach me: Linkedin(https://www.linkedin.com/in/sri-harsha622/)
+- 📫 How to reach me: Linkedin(https://www.linkedin.com/in/sriharshag1106/)
 - 😄 Pronouns: HE/HIM
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriharsha622&theme=radical)
@@ -19,7 +19,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="8%" src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg"></code>
-https://www.brandsoftheworld.com/logo/tableau-software?original=1
+<code><img width="10%" src="<code><img width="10%" src="https://www.brandsoftheworld.com/logo/tableau-software?original=1"></code>"></code>
 
 <!--
 **sriharsha622/sriharsha622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
